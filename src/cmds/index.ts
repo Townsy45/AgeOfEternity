@@ -5,4 +5,5 @@ import Dict = NodeJS.Dict;
 const commands: Array<Command> = [
     start
 ]
+
 export default commands
